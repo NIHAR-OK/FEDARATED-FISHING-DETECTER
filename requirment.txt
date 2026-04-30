@@ -1,0 +1,6 @@
+streamlit
+torch
+joblib
+pandas
+scikit-learn
+flwr
